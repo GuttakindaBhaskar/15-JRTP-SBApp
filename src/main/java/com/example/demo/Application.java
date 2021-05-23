@@ -11,6 +11,6 @@ public class Application {
 		int i = 10;
 		int j = 20;
 		int c = i + j;
-		System.out.println(c);
+		System.out.println("Sum :: "+c);
 	}
 }
